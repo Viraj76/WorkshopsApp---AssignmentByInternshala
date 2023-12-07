@@ -28,6 +28,8 @@ class WorkshopFragment : Fragment() {
     ): View? {
         binding = FragmentWorkshopBinding.inflate(layoutInflater)
         setStatusBarColor()
+        // below code is used to store the data initially
+
 //        binding.btn.setOnClickListener {
 //        val name = binding.name.text.toString()
 //        val date = binding.date.text.toString()
