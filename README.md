@@ -14,6 +14,13 @@
 
 ## 6. Dark mode compatible , Diffutil for better recycling , Recycler View, viewBinding , object file for common components , LiveData. 
 
+
+
+# Navigation graph of the app (hosted in one activity)
+
+![image](https://github.com/Viraj76/workshops/assets/98775599/c4400ed9-6780-4ce2-bc99-ac0ba7c66a1b)
+
+
 # Images of the app (Light theme)
 
 ![image](https://github.com/Viraj76/workshops/assets/98775599/6b0f423e-7a71-4dcc-9eff-0bb5923b6cd8)
@@ -26,7 +33,3 @@
 
 ![image](https://github.com/Viraj76/workshops/assets/98775599/cbd84fb7-96d1-409d-9567-66c7af44e88c)
 
-
-# Navigation graph of the app (hosted in one activity)
-
-![image](https://github.com/Viraj76/workshops/assets/98775599/c4400ed9-6780-4ce2-bc99-ac0ba7c66a1b)
