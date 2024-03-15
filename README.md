@@ -1,18 +1,18 @@
 ## APK - https://drive.google.com/file/d/1rZH08FsZx94hMfbnN_YBaCLip8tc0SUk/view?usp=drive_link
-
+### [Got rejected in last round] 
 # Technologies used 
 
-## 1.MVVM - A better architecture.
+# 1.MVVM - A better architecture.
 
-## 2. Firebase - FirebaseAuth for authentication of the user.
+# 2. Firebase - FirebaseAuth for authentication of the user.
 
-## 3. Room DB - It's a local database as like SQlite. Used to store the workshops.
+# 3. Room DB - It's a local database as like SQlite. Used to store the workshops.
 
-## 4. SharedPreferences - For checking a user is logged in or not in the splash screen.
+# 4. SharedPreferences - For checking a user is logged in or not in the splash screen.
 
-## 5. Navigation Compnent - There are total 5 fragments hosted in one activity. And to manage effcient navigation I used Pop Behaviours(popUpTo() and popUpToExclusinve()).
+# 5. Navigation Compnent - There are total 5 fragments hosted in one activity. And to manage effcient navigation I used Pop Behaviours(popUpTo() and popUpToExclusinve()).
 
-## 6. Dark mode compatible , Diffutil for better recycling , Recycler View, viewBinding , object file for common components , LiveData. 
+# 6. Dark mode compatible , Diffutil for better recycling , Recycler View, viewBinding , object file for common components , LiveData. 
 
 
 
